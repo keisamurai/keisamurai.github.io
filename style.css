@@ -124,7 +124,7 @@ body{
         flex-direction: column
     }
     .blog-box{
-        margin: 20px 10px;
+        margin: 20px 0px;
         width: 100%;
     }
     .blog-img{
